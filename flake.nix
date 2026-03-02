@@ -23,6 +23,8 @@
         packages = with pkgs; [
           uv
           python3
+          pnpm
+          nodejs
         ];
       };
     }
